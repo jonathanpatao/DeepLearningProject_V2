@@ -2,7 +2,10 @@
 MSC in TAU, Course: Deep Learning, Final Project
 <br> starting at 3.7.22
 # start here: <br>
-read the "Grand Challenge - report" file.
+* great info on 'sparse view CT' :<br>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3701091/ <br>
+
+*read the "Grand Challenge - report" file.
 
 # 1'st place code: <br>
 https://github.com/jmaces/aapm-ct-challenge
