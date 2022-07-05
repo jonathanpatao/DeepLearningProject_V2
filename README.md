@@ -5,6 +5,10 @@ MSC in TAU, Course: Deep Learning, Final Project
 * great info on 'sparse view CT' :<br>
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3701091/ <br>
 
+* Filtered BackProjection (FBP) explenation: <br>
+(a) https://www.youtube.com/watch?v=pZ7JlXagT0w <br>
+(b) https://www.youtube.com/watch?v=GGR6NTAvPao <br>
+
 * read the "Grand Challenge - report" file.
 
 # 1'st place code: <br>
