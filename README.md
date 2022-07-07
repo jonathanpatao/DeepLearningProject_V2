@@ -9,6 +9,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3701091/ <br>
 (a) https://www.youtube.com/watch?v=pZ7JlXagT0w <br>
 (b) https://www.youtube.com/watch?v=GGR6NTAvPao <br>
 
+* FBP and Sinogram explenation: <br>
+https://humanhealth.iaea.org/HHW/MedicalPhysics/NuclearMedicine/ImageAnalysis/3Dimagereconstruction/index.html
+
 * read the "Grand Challenge - report" file.
 
 # 1'st place code: <br>
