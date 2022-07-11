@@ -14,10 +14,10 @@ https://humanhealth.iaea.org/HHW/MedicalPhysics/NuclearMedicine/ImageAnalysis/3D
 
 * read the "Grand Challenge - report" file.
 
-# 1'st place code: <br>
+# 1'st place code (Pytorch): <br>
 https://github.com/jmaces/aapm-ct-challenge
 
-# 3'th place code: <br>
+# 3'th place code (Pytorch): <br>
 https://github.com/MaxenceLarose/GLO-4030-7030-DL-Project
 
 ## usfule notes from 3'th place: <br>
@@ -32,7 +32,7 @@ https://github.com/MaxenceLarose/GLO-4030-7030-DL-Project
 https://pubmed.ncbi.nlm.nih.gov/31102462/
 
 
-# 5'th place code: <br>
+# 5'th place code (Tensorflow): <br>
 * at the branch above 
 * The attached .xz file is our code for DL sparse view CT Challenge.
 I think the following issues are important to improve the model performance:
