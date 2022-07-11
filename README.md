@@ -33,7 +33,7 @@ https://pubmed.ncbi.nlm.nih.gov/31102462/
 
 
 # 5'th place code (Tensorflow): <br>
-* at the branch above 
+* at the branch above ("code" branch) 
 * The attached .xz file is our code for DL sparse view CT Challenge.
 I think the following issues are important to improve the model performance:
 1) fine tuning the hyperparameters,
