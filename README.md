@@ -1,4 +1,11 @@
 # DeepLearningProject_V2
+## competition website: <br>
+https://dl-sparse-view-ct-challenge.eastus.cloudapp.azure.com/competitions/1
+* username: moshepeleg@mail.tau.ac.il
+* password: MpDlSpareView
+
+## competition page
+
 MSC in TAU, Course: Deep Learning, Final Project
 <br> starting at 3.7.22
 # start here: <br>
