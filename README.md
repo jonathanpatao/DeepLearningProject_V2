@@ -14,10 +14,19 @@ https://humanhealth.iaea.org/HHW/MedicalPhysics/NuclearMedicine/ImageAnalysis/3D
 
 * read the "Grand Challenge - report" file.
 
-# 1'st place code (Pytorch): <br>
-https://github.com/jmaces/aapm-ct-challenge
+# 1'st place: <br>
+## Group code paper: <br>
+  https://arxiv.org/pdf/2206.07050.pdf <br>
+  OPTIONAL :
+  https://www.researchgate.net/publication/352053806_AAPM_DL-Sparse-View_CT_Challenge_Submission_Report_Designing_an_Iterative_Network_for_Fanbeam-CT_with_Unknown_Geometry <br>
+## Code (Pytorch):
+* https://github.com/jmaces/aapm-ct-challenge
 
-# 3'th place code (Pytorch): <br>
+# 3'th place: <br>
+## Group code paper: <br>
+NO PAPER AVAILABLE - on 13.7 a mail was sent to the group for more info. <br>
+
+## Code (Pytorch): <br>
 https://github.com/MaxenceLarose/GLO-4030-7030-DL-Project
 
 ## usfule notes from 3'th place: <br>
@@ -32,7 +41,12 @@ https://github.com/MaxenceLarose/GLO-4030-7030-DL-Project
 https://pubmed.ncbi.nlm.nih.gov/31102462/
 
 
-# 5'th place code (Tensorflow): <br>
+# 5'th place: <br>
+## based on paper : <br>
+* "JSR-Net: A Deep Network for Joint Spatial-radon Domain CT Reconstruction from Incomplete Data" <br>
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8682178
+
+## Code (Tensorflow): <br>
 * at the branch above ("code" branch) 
 * The attached .xz file is our code for DL sparse view CT Challenge.
 I think the following issues are important to improve the model performance:
