@@ -17,7 +17,7 @@ https://humanhealth.iaea.org/HHW/MedicalPhysics/NuclearMedicine/ImageAnalysis/3D
 # 1'st place: <br>
 ## Group code paper: <br>
   https://arxiv.org/pdf/2206.07050.pdf <br>
-  OPTIONAL :
+  OPTIONAL : <br>
   https://www.researchgate.net/publication/352053806_AAPM_DL-Sparse-View_CT_Challenge_Submission_Report_Designing_an_Iterative_Network_for_Fanbeam-CT_with_Unknown_Geometry <br>
 ## Code (Pytorch):
 * https://github.com/jmaces/aapm-ct-challenge
