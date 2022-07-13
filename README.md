@@ -30,7 +30,9 @@ https://humanhealth.iaea.org/HHW/MedicalPhysics/NuclearMedicine/ImageAnalysis/3D
 
 # 3'th place: <br>
 ## Group code paper: <br>
-NO PAPER AVAILABLE - on 13.7 a mail was sent to the group for more info. <br>
+"Sparse reconstruction for CT imaging with deep convolution
+neural network: an investigation study" <br>
+inside "document" folder
 
 ## Code (Pytorch): <br>
 https://github.com/MaxenceLarose/GLO-4030-7030-DL-Project
