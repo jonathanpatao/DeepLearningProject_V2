@@ -6,7 +6,10 @@ MSC in TAU, Course: Deep Learning, Final Project
 https://dl-sparse-view-ct-challenge.eastus.cloudapp.azure.com/competitions/1
 * Username: moshepeleg@mail.tau.ac.il
 * Password: MpDlSpareView <br>
-* 
+
+## Data: <br>
+https://drive.google.com/drive/folders/1IEaAFTOGKTDgvlYIMHOGuDstReTOVaJA?usp=sharing <br>
+
 # start here: <br>
 * great info on 'sparse view CT' :<br>
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3701091/ <br>
